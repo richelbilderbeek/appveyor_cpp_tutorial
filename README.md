@@ -21,3 +21,7 @@ Great! See [CONTRIBUTING.md](CONTRIBUTING.md).
 ## Code of conduct
 
 This project follows the [Contributor Covenant](http://contributor-covenant.org). See [code_of_conduct.md](code_of_conduct.md).
+
+## External links
+
+ * [https://github.com/richelbilderbeek/travis_cpp_tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial): Travis CI C++ tutorial
