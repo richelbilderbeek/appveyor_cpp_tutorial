@@ -9,10 +9,10 @@ Tutorial how to use AppVeyor with C++.
 
 Statuses of the repositories used that are successfull, or that I haven't done yet
 
- * [appveyor_gcc_cpp11](https://github.com/richelbilderbeek/appveyor_gcc_cpp11)
- * [appveyor_gcc_cpp14](https://github.com/richelbilderbeek/appveyor_gcc_cpp14)
- * [appveyor_gcc_cpp17](https://github.com/richelbilderbeek/appveyor_gcc_cpp17)
- * [appveyor_gcc_cpp98](https://github.com/richelbilderbeek/appveyor_gcc_cpp98)
+ * Use C++11: [![Build status](https://ci.appveyor.com/api/projects/status/0b5s1keq9e3s9u08/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp11/branch/master) [appveyor_gcc_cpp11](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp11)
+ * Use C++14: [![Build status](https://ci.appveyor.com/api/projects/status/r0c3wnwin26yvfto/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp14/branch/master) [appveyor_gcc_cpp14](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp14)
+ * Use C++17: [![Build status](https://ci.appveyor.com/api/projects/status/r34ld400rp98dh6o/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp17/branch/master) [appveyor_gcc_cpp17](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp17)
+ * Use C++98: [![Build status](https://ci.appveyor.com/api/projects/status/l1u8fhfsmorqs2cg/branch/master?svg=true)](https://ci.appveyor.com/project/richelbilderbeek/appveyor-gcc-cpp98/branch/master) [appveyor_gcc_cpp98](https://www.github.com/richelbilderbeek/appveyor_gcc_cpp98)
 
 ## Contributing 
 
@@ -25,3 +25,5 @@ This project follows the [Contributor Covenant](http://contributor-covenant.org)
 ## External links
 
  * [https://github.com/richelbilderbeek/travis_cpp_tutorial](https://github.com/richelbilderbeek/travis_cpp_tutorial): Travis CI C++ tutorial
+ * [https://www.appveyor.com/docs/appveyor-yml/](https://www.appveyor.com/docs/appveyor-yml/): `.appveyor.yml` reference
+ * [https://www.appveyor.com/docs/build-environment/](https://www.appveyor.com/docs/build-environment/): AppVeyor build environment
